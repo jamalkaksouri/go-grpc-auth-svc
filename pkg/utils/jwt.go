@@ -2,7 +2,7 @@ package utils
 
 import (
 	"errors"
-	"github.com/jamalkaksouri/go-grpc-auth-svc/models"
+	"github.com/jamalkaksouri/go-grpc-auth-svc/pkg/models"
 	"time"
 
 	"github.com/golang-jwt/jwt"
