@@ -5,6 +5,7 @@
 ```bash
 $ make proto
 ```
+## Create a new database named `auth_svc`
 
 ## Running the app
 
